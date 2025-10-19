@@ -44,6 +44,6 @@
 ![App Screenshot](./assets/Screenshot%202025-10-17%20233156.png)
 
 - endpoint testing in production
-![App Screenshot](./assets/Screenshot%202025-10-17%20233156.png)
+![App Screenshot](./assets/Screenshot%202025-10-19%20165032.png)
 
 
